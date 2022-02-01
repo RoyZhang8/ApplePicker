@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8400114884252389857}
   - component: {fileID: 6776293256858072726}
   - component: {fileID: 8721083353588535042}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Trunk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 715c0d70c6201104eb29c2f8803ee2c1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 3363232035725043777}
   - component: {fileID: 9167935337812173588}
   - component: {fileID: 7618143949956872604}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Apple Tree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -160,7 +160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 1
   leftAndRightEdge: 10
-  applePrefabs: {fileID: 0}
+  applePrefabs: {fileID: 4767907659548155364, guid: e34804c4c7eb18b44a953929cba2e9ee, type: 3}
   secondsBetweenAppleDrops: 1
   chanceToChangeDirections: 0.1
 --- !u!1 &6117948026723876906
@@ -175,7 +175,7 @@ GameObject:
   - component: {fileID: 3902394145759407283}
   - component: {fileID: 2805895742019100472}
   - component: {fileID: 6141964277491590616}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leaves
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -223,7 +223,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: df01a93e072eacc489e62b7b7dcb6390, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
