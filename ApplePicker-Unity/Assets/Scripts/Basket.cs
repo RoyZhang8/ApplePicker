@@ -1,3 +1,14 @@
+/****
+ * Created by: Ruoyu Zhang
+ * Data Created: Jan 31, 2022
+ * 
+ * Last Edited by: Feb 10, 2022
+ * Last Edited: Feb 10, 2022
+ * 
+ * Description: Controls the movement of the Apple Tree
+ */
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
